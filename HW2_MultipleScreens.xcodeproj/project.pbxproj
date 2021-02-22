@@ -16,6 +16,7 @@
 		5793A54925E3F866006E54E5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5793A54825E3F866006E54E5 /* main.m */; };
 		5793A55325E3F866006E54E5 /* HW2_MultipleScreensTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5793A55225E3F866006E54E5 /* HW2_MultipleScreensTests.m */; };
 		5793A55E25E3F867006E54E5 /* HW2_MultipleScreensUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5793A55D25E3F867006E54E5 /* HW2_MultipleScreensUITests.m */; };
+		5793A57325E40040006E54E5 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5793A57225E40040006E54E5 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		5793A55925E3F867006E54E5 /* HW2_MultipleScreensUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW2_MultipleScreensUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5793A55D25E3F867006E54E5 /* HW2_MultipleScreensUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HW2_MultipleScreensUITests.m; sourceTree = "<group>"; };
 		5793A55F25E3F867006E54E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5793A57125E40040006E54E5 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		5793A57225E40040006E54E5 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				5793A53925E3F863006E54E5 /* SceneDelegate.h */,
 				5793A53A25E3F863006E54E5 /* SceneDelegate.m */,
 				5793A53C25E3F863006E54E5 /* ViewController.h */,
+				5793A57125E40040006E54E5 /* SecondViewController.h */,
+				5793A57225E40040006E54E5 /* SecondViewController.m */,
 				5793A53D25E3F863006E54E5 /* ViewController.m */,
 				5793A53F25E3F863006E54E5 /* Main.storyboard */,
 				5793A54225E3F866006E54E5 /* Assets.xcassets */,
@@ -266,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5793A57325E40040006E54E5 /* SecondViewController.m in Sources */,
 				5793A53E25E3F863006E54E5 /* ViewController.m in Sources */,
 				5793A53825E3F863006E54E5 /* AppDelegate.m in Sources */,
 				5793A54925E3F866006E54E5 /* main.m in Sources */,
